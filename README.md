@@ -1,2 +1,2 @@
-# Lab6
-lab 6 updates to game code 
+# JSPlatformer
+JS Platformer for DIG 3480C
